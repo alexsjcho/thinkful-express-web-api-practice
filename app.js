@@ -5,6 +5,13 @@ const app = express();
 app.use(morgan("common"));
 
 /*
+Express JS Crash Course
+
+https://www.youtube.com/watch?v=L72fhGm1tfE&index=17&list=PLC73zSZPZZRAjIyiAv9z3Jm9YOO3cuLXJ
+
+*/
+
+/*
 Drill #1 Requirements:
 
 1.Create a route handler function on the path /sum that accepts two query parameters named a and b and find the sum of the two values. 
